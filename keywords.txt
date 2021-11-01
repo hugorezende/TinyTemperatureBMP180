@@ -1,0 +1,3 @@
+TinyTemperatureBMP180 	 KEYWORD1
+TinyTemperature KEYWORD2
+
